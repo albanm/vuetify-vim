@@ -19,4 +19,4 @@ The main.go programm is copied from [this gist](https://gist.github.com/suyash/7
     go get github.com/suyash/algo
     go run main.go vuetify.json
     mkdir UltiSnips
-    mv vuetify.snippets UltiSnips
+    mv vuetify.snippets UltiSnips/vue.snippets
