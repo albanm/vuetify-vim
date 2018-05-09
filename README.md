@@ -1,8 +1,8 @@
 # vuetify-vim
 
-This is an unofficial vim plugin that defines [UltiSnips](https://github.com/SirVer/ultisnips) snippets for vuetify.
+This is an unofficial vim plugin that defines [UltiSnips](https://github.com/SirVer/ultisnips) snippets for [vuetify](https://vuetifyjs.com).
 
-The snippets are created from the official one in [vuetify-vscode](https://github.com/vuetifyjs/vuetify-vscode) so you can refer to the documentation [here](https://github.com/vuetifyjs/vuetify-vscode/blob/master/documentation.md).
+The snippets are created from the official ones in [vuetify-vscode](https://github.com/vuetifyjs/vuetify-vscode) so you can refer to the documentation [here](https://github.com/vuetifyjs/vuetify-vscode/blob/master/documentation.md).
 
 ## Install
 
