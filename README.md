@@ -13,7 +13,7 @@ Example with [Vundle](https://github.com/VundleVim/Vundle.vim).
 
 ## Creating the snippets
 
-The main.go programm is copied from [this gist](https://gist.github.com/suyash/76ce40081f99a42c3eb1926e9986f7aa).
+The main.go program that performs the transformation is copied from [this gist](https://gist.github.com/suyash/76ce40081f99a42c3eb1926e9986f7aa).
 
     wget https://raw.githubusercontent.com/vuetifyjs/vuetify-vscode/master/snippets/vuetify.json
     go get github.com/suyash/algo
